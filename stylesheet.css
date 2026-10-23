@@ -1,0 +1,23 @@
+#heading{
+    display: block;
+    height:50px;
+    width:auto;
+    text-align: center;
+    color:blueviolet;
+    box-shadow: 2px 2px 2px rgb(18, 18, 19);
+    background-color: rgb(0, 0, 0);
+}
+ol{
+    margin: 10px;
+    padding: 0;
+
+}
+.del{
+    margin-left:5px;
+}
+body{
+    background-color:brown;
+}
+.check{
+    margin-left:5px;
+}
